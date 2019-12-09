@@ -2,7 +2,7 @@ resources:
 - name: source-code
   type: git
   source:
-    uri: https://github.com/jamesjoshuahill/concourse-spring-boot-maven.git
+    uri: https://github.com/a0samue/concourse-spring-boot-maven.git
     branch: master
 
 - name: resource-deploy-web-app
